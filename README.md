@@ -2,6 +2,8 @@ A draft of the extension of A Constructive Proof of the Riemann Hypothesis and G
 
 Tom Gatward (ORCID: 0009-0009-1167-6421)
 
+[![DOI](https://zenodo.org/badge/1025578088.svg)](https://doi.org/10.5281/zenodo.16411776)
+
 First uploaded 24/07/25
 
 ## Overview
